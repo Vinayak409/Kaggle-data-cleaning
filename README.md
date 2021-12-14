@@ -1,6 +1,6 @@
 # Kaggle's 5-Day Data Challenge: Data Cleaning
 
-Run Jupyter Notebooks [here](https://mybinder.org/v2/gh/Vinayak409/Kaggle-data-cleaning/master)
+Run Jupyter Notebooks [here](https://mybinder.org/v2/gh/Vinayak409/Kaggle-data-cleaning.git/main)
 
 - [X] Day 1: Missing Values
 - [X] Day 2: Scaling and Normalization
